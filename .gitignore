@@ -1,2 +1,4 @@
-src/c/**
+*.egg-info
+build
+src/svmrank/svm_rank.c
 tests/__pycache__
